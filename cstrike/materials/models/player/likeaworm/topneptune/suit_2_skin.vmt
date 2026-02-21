@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/likeaworm/topneptune/suit_2"
+	"$bumpmap" "models/player/likeaworm/topneptune/normal"
+	"$nocull" "1"
+
+	"$lightwarptexture" "models/player/likeaworm/topneptune/lightwarptexture"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models/player/likeaworm/topneptune/phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+}
